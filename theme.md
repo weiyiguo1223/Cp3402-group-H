@@ -4,11 +4,11 @@ Layout of the necessary content was implemented via modifications through wordpr
 
 ## Theme Origin
 
- The theme was created from twenty-twenty-two starter theme of wordpress, where it allows user to develop their own theme via theme editor matching their preferences.
+ The theme was created from astra starter theme of wordpress, where it allows user to develop their own theme via theme editor matching their preferences.
 
 ## Theme Features
 
-Theme follows several guidelines in building the theme template where whitespaces and layout were managed identically, padding and margin remains matching in every pages and posts. This was for appeal and to offer similar experience in every instance of visiting a section in the website. Header and Footer was built with HTML/CSS code for further customization preferred by the team and suitability with the contents from the client. 
+The theme keeps the white background, and the content still shows the correct margin and padding on different clients. And display the navigation bar and logo in the header.
 
 ## Design Decisions
 
@@ -18,13 +18,9 @@ Below are the specific design decisions made in creating and building the theme.
 
 Padding, margin, whitespaces are managable by code editor or template parts customization in theme editor in wordpress. 
 
-### Typography
-
-Google fonts plugin was used to apply 'Poppins', 'Sans-serif' to all pages.
-
 ### Colours
 
-Minimal colors were used - #FFFFFF, #000000, #0000FF, and #0D98BA. Less colorful and bright hues were implemented for comfortable user experience and to suit the theme of the website itself.
+Minimal colors were used - #020101, #2FC1FF, #FFFFFF. Less colorful and bright hues were implemented for comfortable user experience and to suit the theme of the website itself.
 
 ## Further Developments
 
