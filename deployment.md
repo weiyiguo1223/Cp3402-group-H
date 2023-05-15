@@ -26,4 +26,4 @@ We used siteground to set up our environment <br>
 
 
 ### Development Workflow
-<img src="https://user-images.githubusercontent.com/81670500/190222756-37226028-9a92-4193-9fb6-d882999779a9.png">
+Trello -> AWS -> Hosting -> Wordpress -> Github -> Staging -> Product
