@@ -1,5 +1,6 @@
 # CP3402 CMS Group 2 Project Overview
-This is the repository for a website project for Baizonn Learning (our client) using a custom theme and further enhanced through the use of WordPress, a Content Management System. It is completed by students at James Cook University, Group 2 of Class CP3402, year 2022. Work on this project was performed by a small group of international students over the course of the study period and is intended as a culmination of our learning for this semester.
+This is the repository for a website project for Baizonn Learning (our client) using a custom theme and further enhanced through the use of WordPress, a Content Management System. It is completed by students at James Cook University, Group h of Class CP3402, year 2023. r.
+
 
 ## Repository Contents
 The following is a list of folders in files contained in the repository and their purpose with links provided.
